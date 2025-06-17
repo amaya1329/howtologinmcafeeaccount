@@ -49,15 +49,15 @@ Once you've entered your email address, McAfee will prompt you to enter your pas
 Be sure to check the “Show Password” box (if available) to ensure you're typing it correctly. If your password contains special characters, it’s always a good idea to verify the characters to avoid login errors.
 
   Step 6: Complete the CAPTCHA (If Required)
-------------------
+------------------------------
 For security purposes, McAfee might ask you to complete a CAPTCHA (a verification process to prove that you’re not a bot). You might need to select images or type characters from a distorted image. This step helps ensure that unauthorized bots cannot access your account.
 
   Step 7: Click the “Sign In” Button
--------------
+-------------------------------------
 Once you’ve entered your credentials and completed any CAPTCHA challenges, click the Sign In button. If your credentials are correct, you will be logged into your McAfee account.
 
   Step 8: Troubleshoot Login Issues (If Needed)
-----------------------
+--------------------------------------
 If you are unable to log in, don’t panic. McAfee provides options to resolve login issues:
 
 
@@ -71,44 +71,44 @@ If you are unable to log in, don’t panic. McAfee provides options to resolve l
 
 
   What to Do After You Log Into Your McAfee Account
---------------------
+--------------------------------------------------------
   Once you’ve successfully logged into your McAfee account, you’ll be able to access various features depending on your subscription. Here’s what you can do:
 
   1. View Your Subscription Details
-
+--------------------------------------
 
 You can easily check the status of your McAfee subscription, including the type of plan you have (e.g., McAfee Total Protection or McAfee LiveSafe), the number of devices covered, and the expiration date. If necessary, you can renew or upgrade your subscription directly from this section.
 
 2. Download and Install McAfee Products
-
+---------------------------------------------
 
 If you need to install McAfee software on a new device, you can download the product from your account dashboard. McAfee will also provide installation instructions and activation codes if necessary.
 
 
 3. Manage Devices
-
+----------------------------
 
 You can manage the devices associated with your McAfee subscription. If you want to add or remove devices from your account, this can be done easily within the account settings.
 
 
 4. Access Security Features
 
-
+----------------------------------------
 McAfee provides a variety of features such as firewall management, virus scanning, and identity theft protection. You can access these features directly from your account to ensure your devices are properly secured.
 
 
 5. Customer Support and Troubleshooting
-
+--------------------------------------------
 
 In case you face issues with your McAfee product, logging into your account gives you quick access to McAfee’s customer support options. You can get help via live chat, email support, or find relevant knowledge base articles to troubleshoot problems on your own.
 
 6. Manage Payment Information
-
+----------------------------------------
 
 If your subscription is about to renew, or if you need to change your payment details, you can do so from your account. Updating your payment information ensures there are no interruptions in service when your subscription is renewed.
 
 Tips for Keeping Your McAfee Account Secure
-
+----------------------------------------------
 
 Your McAfee account contains sensitive information, including subscription details and payment information. To keep your account secure, here are some useful tips:
 
