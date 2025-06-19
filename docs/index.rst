@@ -10,13 +10,16 @@ How to Login Your McAfee Account?
 
 ________________________________________
 
-For login McAfee Account Click Here:
-----------------------------------
-👉 https://getchatsupport.live/
------------------------------------------------------
+
 McAfee is one of the leading cybersecurity companies that provide antivirus software and other security solutions to protect your devices from cyber threats. To manage your McAfee subscription, access advanced features, or troubleshoot issues, you need to log in to your McAfee account. Whether you are using McAfee for the first time or are a returning customer, understanding how to log in to your McAfee account is crucial for managing your subscriptions and ensuring that your devices stay secure.
 
 In this article, we’ll guide you through the entire process of logging into your McAfee account. We’ll cover everything you need to know, from creating your McAfee account to accessing its features.
+
+.. image:: click-login.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclportal.com/ 
 
 Why You Need a McAfee Account
 -----------------------------
